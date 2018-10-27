@@ -31,7 +31,8 @@ Footer
 								<nav class="footer-widget">
 									<ul>
 										<li><a href="#"  target="_blank"  rel="nofollow">Affiliate program </a></li>
-										<li><a href="#"  target="_blank"  rel="nofollow">Terms & Conditions</a></li>
+										<li><a href="#"  target="_blank"  rel="nofollow">
+										Terms & Conditions</a></li>
 										<li><a href="#"  target="_blank"  rel="nofollow">Privacy Policy</a></li>
 										<li><a href="#"  target="_blank"  rel="nofollow">Refund Policy</a></li>	 
 							      </ul>

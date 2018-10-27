@@ -4,7 +4,7 @@
 Slider Section
 ============================-->
 
-<section data-id="4084be8a" class="elementor-element elementor-element-4084be8a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+<section data-id="4084be8a" class="elementor-element elementor-element-4084be8a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" style="background-image: url('<?php echo $imagem; ?>')">
 	<div class="elementor-background-overlay"></div>
 	<div class="elementor-container elementor-column-gap-default">
 		<div class="elementor-row">

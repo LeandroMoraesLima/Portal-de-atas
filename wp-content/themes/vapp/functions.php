@@ -25,8 +25,6 @@
 		wp_register_style('theme-colorscss', CSS . '/theme-colors.min.css', array(), $versao, false );
 		wp_register_style('SFProDisplaycss', FONTS . '/SFProDisplay.css', array(), $versao, false );
 		wp_register_style('woocss', CSS . '/vapp-woo.css', array(), $versao, false );
-		wp_register_style('responsivecss', CSS . '/responsive.css?ver=4.9.8', array(), $versao, false );
-		wp_register_style('theme-custom-stylecss', CSS . '/theme_options_style.css?ver=4.9.8', array(), $versao, false );
 		wp_register_style('vapp-iconscss', CSS . '/nucleo-font.css', array(), $versao, false );
 		wp_register_style('710css', CSS . '/post-710.css', array(), $versao, false );
 
