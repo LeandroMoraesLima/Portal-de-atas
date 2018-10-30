@@ -566,7 +566,7 @@ Depoimento
 														<blockquote class="testimonial__quote">“Phasellus dolor magna, dignissim ac nunc nec, elementum lacinia nibh. Ut aliquet nec erat pharetra pulvinar. Donec accumsan aliquet nulla, vel efficitur erat luctus sit amet.“</blockquote>
 														<div class="testimonial-customer">
 															<span class="testimonial__avatar">
-																<img src="vapp/wp-content/uploads/2018/07/testimonial-5.png" alt="">
+																<img src="<?php echo IMG; ?>/image.png" alt="image">
 															</span>
 															<div class="testimonial-customer-aside">
 																<span class="testimonial__customer-rating">
