@@ -4,8 +4,8 @@
 Slider Section
 ============================-->
 
-<section data-id="4084be8a" class="elementor-element elementor-element-4084be8a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" style="background-image: url('<?php echo $imagem; ?>')">
-	<div class="elementor-background-overlay"></div>
+<section data-id="4084be8a" class="elementor-element elementor-element-4084be8a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" style="background-image: url('<?php echo IMG; ?>/O6ZHFS0.jpg');" data-element_type="section">
+	<div class="elementor-background-overlay" ></div>
 	<div class="elementor-container elementor-column-gap-default">
 		<div class="elementor-row">
 			<div data-id="217e944a" class="elementor-element elementor-element-217e944a elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
@@ -20,8 +20,8 @@ Slider Section
 												<div data-id="5ad3fa45" class="elementor-element elementor-element-5ad3fa45 elementor-widget elementor-widget-section-title" data-element_type="section-title.default">
 													<div class="elementor-widget-container">
 														<div class="section-title" >
-															<h1 class="hero__title">Get things done with this beautiful SaaS app.</h1>                
-															<p>No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is.</p> 
+															<h1 class="hero__title">Nulla suscipit vel mi eu  taciti sociosqu ad litora.</h1>              
+															<p>Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin. Suspendisse dictum varius.</p> 
 											           </div>
 													</div>
 												</div>
@@ -33,9 +33,9 @@ Slider Section
 																	<div id="mc_embed_signup_scroll">
 																		<div class="mc-field-group">
 																			<div class="form-wrap clearfix">
-																				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email address">
+																				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email">
 																				<button type="submit" class="btn__submit">
-																					Start free trial
+																					Enviar
 																				</button>
 																			</div>
 																		</div>
@@ -56,9 +56,9 @@ Slider Section
 													<div class="elementor-widget-container">
 														<nav class="footer-widget">
 															<ul>
-																<li>Free 14-day trial</li>
-																<li>Easy setup</li>
-																<li>Cancel any time</li>
+																<li>Donec eget magna</li>
+																<li>Pellentesque</li>
+																<li>Phasellus</li>
 											            </ul>
 														</nav>
 													</div>
@@ -72,7 +72,7 @@ Slider Section
 						<div data-id="52eb0e9c" class="elementor-element elementor-element-52eb0e9c elementor-widget elementor-widget-image" data-element_type="image.default">
 							<div class="elementor-widget-container">
 								<div class="elementor-image">
-									<img width="851" height="514" src="vapp/wp-content/uploads/2018/07/hero-2.1-1.png" class="attachment-large size-large" alt="" srcset="vapp/wp-content/uploads/2018/07/hero-2.1-1.png 851w, vapp/wp-content/uploads/2018/07/hero-2.1-1-300x181.png 300w, vapp/wp-content/uploads/2018/07/hero-2.1-1-768x464.png 768w" sizes="(max-width: 851px) 100vw, 851px" />
+									<img width="851" height="514" src="<?php echo IMG; ?>/grafico1.png" class="attachment-large size-large" alt="" sizes="(max-width: 851px) 100vw, 851px" />
 								</div>
 							</div>
 						</div>
@@ -95,26 +95,26 @@ Nossos Clientes
 					<div class="elementor-widget-wrap">
 						<div data-id="720bb516" class="elementor-element elementor-element-720bb516 elementor-widget elementor-widget-heading" data-element_type="heading.default">
 							<div class="elementor-widget-container">
-								<h5 class="elementor-heading-title elementor-size-default">Trusted by the world’s most innovative businesses – big and small</h5>
+								<h5 class="elementor-heading-title elementor-size-default">Nossos Clientes</h5>
 							</div>
 						</div>
 					<div data-id="380dd20a" class="elementor-element elementor-element-380dd20a reveal-yes elementor-widget elementor-widget-image-list" data-element_type="image-list.default">
 							<div class="elementor-widget-container">
 								<div class="client-brand-wrapper-1">
 									<span class="client">
-										<img src="vapp/wp-content/uploads/2018/07/client-brand-2.1.png" alt="image">
+										<img src="<?php echo IMG; ?>/clientes1.jpg" alt="image">
 									</span>
 									<span class="client">
-										<img src="vapp/wp-content/uploads/2018/07/client-brand-2.2.png" alt="image">
+										<img src="<?php echo IMG; ?>/clientes2.jpg" alt="image">
 									</span>
 									<span class="client">
-										<img src="vapp/wp-content/uploads/2018/07/client-brand-2.3.png" alt="image">
+										<img src="<?php echo IMG; ?>/clientes3.jpg" alt="image">
 									</span>
 									<span class="client">
-										<img src="vapp/wp-content/uploads/2018/07/client-brand-2.4.png" alt="image">
+										<img src="<?php echo IMG; ?>/clientes4.jpg" alt="image">
 									</span>
 									<span class="client">
-										<img src="vapp/wp-content/uploads/2018/07/client-brand-2.5.png" alt="image">
+										<img src="<?php echo IMG; ?>/clientes5.jpg" alt="image">
 									</span>
 								</div>
 							</div>
@@ -155,11 +155,11 @@ Portais
 															<div class="feature">
 																<div class="feature__list">
 																	<span class="feature_icon">
-																		<i class="nc-icon nc-layers-3"></i>
+																		<img src="<?php echo IMG; ?>/cadeado.png" alt="image">
 																	</span>
 																	<div>
-																		<h5  class="feature__title">Easily Managable</h5>
-																		<p  class="feature__description">No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is</p>
+																		<h5  class="feature__title">Portal Exclusivo</h5>
+																		<p  class="feature__description">Prazos controlados, sinalizadores, organização, visualização online de documentos.</p>
 																	</div>
 																</div>
 																<!-- single item end -->
@@ -173,11 +173,11 @@ Portais
 															<div class="feature">
 																<div class="feature__list">
 																	<span class="feature_icon">
-																		<i class="nc-icon nc-responsive"></i>
+																		<img src="<?php echo IMG; ?>/relogio.png" alt="image">
 																	</span>
 																	<div>
-																		<h5  class="feature__title">Multi Device Supported</h5>
-																		<p  class="feature__description">No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is</p>
+																		<h5  class="feature__title">Vantagens do Portal</h5>
+																		<p  class="feature__description">Controle dos prazos; Segurança das informações; Facilidade e organização na busca dos documentos; Implantação de fluxos de trabalhos personalizados, entre outros.</p>
 																	</div>
 																</div>
 																<!-- single item end -->
@@ -197,11 +197,11 @@ Portais
 															<div class="feature">
 																<div class="feature__list">
 																	<span class="feature_icon">
-																		<i class="nc-icon nc-code-editor"></i>
+																		<img src="<?php echo IMG; ?>/cadeado.png" alt="image">
 																	</span>
 																	<div>
-																		<h5  class="feature__title">Powerful Codes</h5>
-																		<p  class="feature__description">No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is</p>
+																		<h5  class="feature__title">Portal Exclusivo</h5>
+																		<p  class="feature__description">Prazos controlados, sinalizadores, organização, visualização online de documentos.</p>
 																	</div>
 																</div>
 																<!-- single item end -->
@@ -215,11 +215,11 @@ Portais
 															<div class="feature">
 																<div class="feature__list">
 																	<span class="feature_icon">
-																		<i class="nc-icon nc-web-design"></i>
+																		<img src="<?php echo IMG; ?>/relogio.png" alt="image">
 																	</span>
 																	<div>
-																		<h5  class="feature__title">Clean Design</h5>
-																		<p  class="feature__description">No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is</p>
+																		<h5  class="feature__title">Vantagens do Portal</h5>
+																		<p  class="feature__description">Controle dos prazos; Segurança das informações; Facilidade e organização na busca dos documentos; Implantação de fluxos de trabalhos personalizados, entre outros.</p>
 																	</div>
 																</div>
 																<!-- single item end -->
@@ -259,7 +259,7 @@ Sobre o Portal
 												<div data-id="1a126651" class="elementor-element elementor-element-1a126651 elementor-widget elementor-widget-vapp-image-dp" data-element_type="vapp-image-dp.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image ">
-															<img width="941" height="653" src="vapp/wp-content/uploads/2018/07/safari-browser-1-1.png" class="attachment-large size-large" alt="" srcset="vapp/wp-content/uploads/2018/07/safari-browser-1-1.png 941w, vapp/wp-content/uploads/2018/07/safari-browser-1-1-300x208.png 300w, vapp/wp-content/uploads/2018/07/safari-browser-1-1-768x533.png 768w" sizes="(max-width: 941px) 100vw, 941px" />					
+															<img width="941" height="653" src="<?php echo IMG; ?>/sobre1.png" class="attachment-large size-large" alt="" sizes="(max-width: 941px) 100vw, 941px" />
 														</div>
 													</div>
 												</div>
@@ -284,48 +284,15 @@ Sobre o Portal
 												<div data-id="1a928578" class="elementor-element elementor-element-1a928578 elementor-widget elementor-widget-section-title" data-element_type="section-title.default">
 													<div class="elementor-widget-container">
 														<div class="section-title" >
-															<h2>Never miss a task,<br />Get always step ahead.</h2><p>Sitting proudly atop M3565 is the two-storey penthouse. The master bedroom suite is phenomenally spacious and opens out to a breathtaking plunge pool and bar area that makes the most of its unrivalled position.</p>            
+															<h2>Sobre o Portal Atas</h2>
+															<p>O Portal de Atas é mais uma inovação tecnológica, cujo objetivo é trazer benefícios econômicos e melhores condições de condução dos processos trabalhistas contra as empresas, com informações mais completas e detalhadas. <br><br>O Portal permite que todas as atas de audiências sejam indexadas ao sistema com a identificação das testemunhas que foram ouvidas em audiência.
+															</p>            
 														</div>
 													</div>
 												</div>
-												<section data-id="134c1276" class="elementor-element elementor-element-134c1276 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
-													<div class="elementor-container elementor-column-gap-default">
-														<div class="elementor-row">
-															<div data-id="520bd00b" class="elementor-element elementor-element-520bd00b elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
-																<div class="elementor-column-wrap elementor-element-populated">
-																	<div class="elementor-widget-wrap">
-																		<div data-id="5c178430" class="elementor-element elementor-element-5c178430 elementor-widget elementor-widget-heading" data-element_type="heading.default">
-																			<div class="elementor-widget-container">
-																				<h5 class="elementor-heading-title elementor-size-default">1M</h5>	
-																			</div>
-																		</div>
-																		<div data-id="13fa5ac1" class="elementor-element elementor-element-13fa5ac1 elementor-widget elementor-widget-heading" data-element_type="heading.default">
-																			<div class="elementor-widget-container">
-																				<p class="elementor-heading-title elementor-size-default">Downloads</p>	
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div data-id="3dd4cd7f" class="elementor-element elementor-element-3dd4cd7f elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
-																<div class="elementor-column-wrap elementor-element-populated">
-																	<div class="elementor-widget-wrap">
-																		<div data-id="792be33f" class="elementor-element elementor-element-792be33f elementor-widget elementor-widget-heading" data-element_type="heading.default">
-																			<div class="elementor-widget-container">
-																				<h5 class="elementor-heading-title elementor-size-default">30K</h5>
-																			</div>
-																		</div>
-																		<div data-id="66ebd9e2" class="elementor-element elementor-element-66ebd9e2 elementor-widget elementor-widget-heading" data-element_type="heading.default">
-																			<div class="elementor-widget-container">
-																				<p class="elementor-heading-title elementor-size-default">Positive Reviews</p>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</section>
+												<div data-id="91b2df9" class="elementor-element elementor-element-91b2df9 elementor-widget elementor-widget-header-buttons" data-element_type="header-buttons.default">
+											<div class="elementor-widget-container">
+												<div class="vapp-btn-group header-buttons"><a href="" class="db-btn db-btn__type-sm "  target="_blank"  rel="nofollow">Saiba Mais</a></div>
 											</div>
 										</div>
 									</div>
@@ -365,14 +332,14 @@ Portal exclusivo
 												<div data-id="45a99ef4" class="elementor-element elementor-element-45a99ef4 elementor-widget elementor-widget-section-title" data-element_type="section-title.default">
 													<div class="elementor-widget-container">
 														<div class="section-title" >
-															<h2>Super clean user<br />interface for easier use.</h2>                
-															<p>Sitting proudly atop M3565 is the two-storey penthouse. The master bedroom suite is phenomenally spacious and opens out to a breathtaking plunge pool and bar area that makes the most of its unrivalled position.</p>
-										            </div>
+															<h2>Portal Exclusivo</h2>        
+															<p>Prazos controlados, sinalizadores, organização, visualização online de documentos.<br><br>Apresentamos o Portal Exclusivo de Documentos, nele o fluxo de trabalho é personalizado, economizando tempo no recebimento de arquivos e agilidade nos processos gerais dos departamentos.</p>
+										           		</div>
 													</div>
 												</div>
 												<div data-id="6612acb2" class="elementor-element elementor-element-6612acb2 elementor-widget elementor-widget-buttons" data-element_type="buttons.default">
 													<div class="elementor-widget-container">
-														<div class="vapp-btn-group"><a href="" class="db-btn db-btn__type-sm db-btn__outline"  target="_blank"  rel="nofollow">View Demo</a>
+														<div class="vapp-btn-group"><a href="" class="db-btn db-btn__type-sm db-btn__outline"  target="_blank" rel="nofollow">Saiba Mais</a>
 														</div>
 													</div>
 												</div>
@@ -385,7 +352,7 @@ Portal exclusivo
 												<div data-id="57b8df04" class="elementor-element elementor-element-57b8df04 elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-vapp-image-dp" data-element_type="vapp-image-dp.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image ">
-															<img width="496" height="463" src="vapp/wp-content/uploads/2018/07/content-block-1.png" class="attachment-large size-large" alt="" srcset="vapp/wp-content/uploads/2018/07/content-block-1.png 496w, vapp/wp-content/uploads/2018/07/content-block-1-300x280.png 300w" sizes="(max-width: 496px) 100vw, 496px" />					
+															<img width="496" height="463" src="<?php echo IMG; ?>/portal.png" class="attachment-large size-large" alt="" sizes="(max-width: 496px) 100vw, 496px" />					
 														</div>
 													</div>
 												</div>
@@ -421,14 +388,14 @@ Portal exclusivo
 												<div data-id="724ad535" class="elementor-element elementor-element-724ad535 elementor-widget elementor-widget-section-title" data-element_type="section-title.default">
 													<div class="elementor-widget-container">
 														<div class="section-title" >
-															<h2 class="cta__title">We are offering 14 days<br />free trial for early 1k users.</h2>  
-										              <p>Sitting proudly atop M3565 is the two-storey penthouse. The master bedroom suite is phenomenally spacious and opens out to a breathtaking plunge pool and bar area that makes the most of its unrivalled position.</p>
-										            </div>
+															<h2 class="cta__title">Experimente Grátis (20 atas)</h2> 
+										              		<p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin. Suspendisse dictum varius porttitor. Nulla aliquam ultrices urna eget dictum. Donec eget magna eget nunc suscipit scelerisque. Morbi augue ligula, elementum malesuada risus.</p>
+										      	      </div>
 													</div>
 												</div>
 												<div data-id="1d25eabd" class="elementor-element elementor-element-1d25eabd elementor-widget elementor-widget-buttons" data-element_type="buttons.default">
 													<div class="elementor-widget-container">
-														<div class="vapp-btn-group"><a href="" class="db-btn db-btn__type-sm db-btn__non__outline"  target="_blank"  rel="nofollow">Try 14 Days free trial</a>
+														<div class="vapp-btn-group"><a href="" class="db-btn db-btn__type-sm db-btn__non__outline"  target="_blank"  rel="nofollow">Experimentar</a>
 														</div>
 													</div>
 												</div>
@@ -441,7 +408,7 @@ Portal exclusivo
 						<div data-id="7a0e56e4" class="elementor-element elementor-element-7a0e56e4 elementor-widget elementor-widget-vapp-image-dp" data-element_type="vapp-image-dp.default">
 							<div class="elementor-widget-container">
 								<div class="elementor-image ">
-									<img width="841" height="390" src="vapp/wp-content/uploads/2018/07/safari-browser-2-1.png" class="attachment-large size-large" alt="" srcset="vapp/wp-content/uploads/2018/07/safari-browser-2-1.png 841w, vapp/wp-content/uploads/2018/07/safari-browser-2-1-300x139.png 300w, vapp/wp-content/uploads/2018/07/safari-browser-2-1-768x356.png 768w" sizes="(max-width: 841px) 100vw, 841px" />		
+									<img width="841" height="390" src="<?php echo IMG; ?>/grafico2.png" class="attachment-large size-large" alt="" sizes="(max-width: 841px) 100vw, 841px" />		
 								</div>
 							</div>
 						</div>
@@ -465,9 +432,9 @@ Planos
 						<div data-id="2e549a70" class="elementor-element elementor-element-2e549a70 elementor-widget elementor-widget-section-title" data-element_type="section-title.default">
 							<div class="elementor-widget-container">
 								<div class="section-title" >
-									<h2>Easy Pricing Plans</h2>  
-				              <p>Our users are impatient. They're probably distracted too. Keep it simple and beautiful, fun and functional. Clean aesthetics supported by a strong concept is what we stand for.</p>
-				            </div>
+									<h2>Planos</h2>  
+					                <p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin. Suspendisse dictum varius porttitor.</p>
+					            </div>
 							</div>
 						</div>
 						<section data-id="44bfef29" class="elementor-element elementor-element-44bfef29 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
@@ -482,19 +449,19 @@ Planos
 															<div class="prcing-table reveal">
 																<div class="prcing-header">
 																	<p>
-																		<span class="currency">$</span>
-																		<span class="value">9</span>
-																		<span class="duration">mo</span>
+																		<span class="currency">R$</span>
+																		<span class="value">200</span>
+																		<span class="duration">mês</span>
 																	</p>
-																	<span class="prcing-table__plan-name">Individual</span>
+																	<span class="prcing-table__plan-name">21 – 250  atas</span>
 																</div>
 																<ul>
-																	<li>1000 Messages per month</li>
-																	<li>10 GB file storage</li>
-																	<li>50 Projects per month</li>
-																	<li>Premium support</li>
+																	<li>xxxxxxxxxxxxxxxxx</li>
+																	<li>xxxxxxxxxxxxxxxxx</li>
+																	<li>xxxxxxxxxxxxxxxxx</li>
+																	<li>xxxxxxxxxxxxxxxxx</li>
 																</ul>
-																<a href="#" class="db-btn db-btn__type-md"   rel="nofollow">Try 14 Days free trial</a>
+																<a href="#" class="db-btn db-btn__type-md"   rel="nofollow">Comprar</a>
 															</div>
 														</div>
 													</div>
@@ -574,7 +541,7 @@ Planos
 Depoimento
 ============================-->
 
-<section data-id="156102a3" class="elementor-element elementor-element-156102a3 advanced-section-style-yes elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" id="reviews" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+<section data-id="156102a3" class="elementor-element elementor-element-156102a3 advanced-section-style-yes elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" id="reviews" style="background-image: url('<?php echo IMG; ?>/738.jpg')" data-element_type="section">
 	<div class="elementor-container elementor-column-gap-default">
 		<div class="elementor-row">
 			<div data-id="782bd05a" class="elementor-element elementor-element-782bd05a elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
@@ -583,9 +550,9 @@ Depoimento
 						<div data-id="4da19d8c" class="elementor-element elementor-element-4da19d8c elementor-widget elementor-widget-section-title" data-element_type="section-title.default">
 							<div class="elementor-widget-container">
 								<div class="section-title" >
-									<h2>Our users love us</h2>
-									<p>Our users are impatient. They're probably distracted too. Keep it simple and beautiful, fun and functional. Clean aesthetics supported by a strong concept is what we stand for.</p>
-				            </div>
+									<h2>Depoimentos</h2>
+									<p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin. Suspendisse dictum varius porttitor.</p>
+				           		</div>
 							</div>
 						</div>
 						<div data-id="1e189e72" class="elementor-element elementor-element-1e189e72 reveal-yes overflow-no elementor-widget elementor-widget-testimonial-slider" data-element_type="testimonial-slider.default">
@@ -596,7 +563,7 @@ Depoimento
 											<div class="testimonial-item">
 												<div class="testimonial-content">
 													<div>
-														<blockquote class="testimonial__quote">You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change and click save. Thanks, guys!</blockquote>
+														<blockquote class="testimonial__quote">“Phasellus dolor magna, dignissim ac nunc nec, elementum lacinia nibh. Ut aliquet nec erat pharetra pulvinar. Donec accumsan aliquet nulla, vel efficitur erat luctus sit amet.“</blockquote>
 														<div class="testimonial-customer">
 															<span class="testimonial__avatar">
 																<img src="vapp/wp-content/uploads/2018/07/testimonial-5.png" alt="">
@@ -608,99 +575,7 @@ Depoimento
 																	<i class="nc-icon nc-favourite-31"></i>
 																	<i class="nc-icon nc-favourite-31"></i>
 																</span>
-																<h5 class="testimonial__customer-name">Roy Jimenez</h5>
-															</div>
-														</div>
-													</div>
-												</div>
-												<!-- single item end -->
-											</div>
-											<div class="testimonial-item">
-												<div class="testimonial-content">
-													<div>
-														<blockquote class="testimonial__quote">You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change and click save. Thanks, guys!</blockquote>
-														<div class="testimonial-customer">
-															<span class="testimonial__avatar">
-																<img src="vapp/wp-content/uploads/2018/07/testimonial-3.png" alt="">
-															</span>
-															<div class="testimonial-customer-aside">
-																<span class="testimonial__customer-rating">
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																</span>
-																<h5 class="testimonial__customer-name">Roy Jimenez</h5>
-															</div>
-														</div>
-													</div>
-												</div>
-												<!-- single item end -->
-											</div>
-											<div class="testimonial-item">
-												<div class="testimonial-content">
-													<div>
-														<blockquote class="testimonial__quote">You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change and click save. Thanks, guys!</blockquote>
-														<div class="testimonial-customer">
-															<span class="testimonial__avatar">
-																<img src="vapp/wp-content/uploads/2018/07/testimonial-3.png" alt="">
-															</span>
-															<div class="testimonial-customer-aside">
-																<span class="testimonial__customer-rating">
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																</span>
-																<h5 class="testimonial__customer-name">Roy Jimenez</h5>
-															</div>
-														</div>
-													</div>
-												</div>
-												<!-- single item end -->
-											</div>
-											<div class="testimonial-item">
-												<div class="testimonial-content">
-													<div>
-														<blockquote class="testimonial__quote">You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change and click save. Thanks, guys!</blockquote>
-														<div class="testimonial-customer">
-															<span class="testimonial__avatar">
-																<img src="vapp/wp-content/uploads/2018/07/testimonial-3.png" alt="">
-															</span>
-															<div class="testimonial-customer-aside">
-																<span class="testimonial__customer-rating">
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																</span>
-																<h5 class="testimonial__customer-name">Roy Jimenez</h5>
-															</div>
-														</div>
-													</div>
-												</div>
-												<!-- single item end -->
-											</div>
-											<div class="testimonial-item">
-												<div class="testimonial-content">
-													<div>
-														<blockquote class="testimonial__quote">You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change and click save. Thanks, guys!</blockquote>
-														<div class="testimonial-customer">
-															<span class="testimonial__avatar">
-																<img src="vapp/wp-content/uploads/2018/07/testimonial-3.png" alt="">
-															</span>
-															<div class="testimonial-customer-aside">
-																<span class="testimonial__customer-rating">
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																	<i class="nc-icon nc-favourite-31"></i>
-																</span>
-																<h5 class="testimonial__customer-name">Roy Jimenez</h5>
+																<h5 class="testimonial__customer-name">João</h5>
 															</div>
 														</div>
 													</div>
@@ -739,7 +614,7 @@ Perguntas frequentes
 												<div data-id="2d3dc706" class="elementor-element elementor-element-2d3dc706 elementor-widget elementor-widget-vapp-image-dp" data-element_type="vapp-image-dp.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image ">
-															<img width="784" height="460" src="vapp/wp-content/uploads/2018/07/faq-1-1.png" class="attachment-large size-large" alt="" srcset="vapp/wp-content/uploads/2018/07/faq-1-1.png 784w, vapp/wp-content/uploads/2018/07/faq-1-1-300x176.png 300w, vapp/wp-content/uploads/2018/07/faq-1-1-768x451.png 768w" sizes="(max-width: 784px) 100vw, 784px" />								
+															<img width="473" height="460" src="<?php echo IMG; ?>/perguntas1.png" class="attachment-large size-large" alt="" sizes="(max-width: 784px) 100vw, 784px" />				
 														</div>
 													</div>
 												</div>
@@ -758,9 +633,9 @@ Perguntas frequentes
 												<div data-id="6af5e27c" class="elementor-element elementor-element-6af5e27c elementor-widget elementor-widget-section-title" data-element_type="section-title.default">
 													<div class="elementor-widget-container">
 														<div class="section-title" >
-															<h2>Frequently Asked Questions</h2>                
-															<p>Our users are impatient. They're probably distracted too. Keep it simple and beautiful, fun and functional. Clean aesthetics supported by a strong concept is what we stand for.</p>    
-											         </div>
+															<h2>Perguntas Frequentes</h2>   
+															<p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin. Suspendisse dictum varius porttitor.</p>    
+											         	</div>
 													</div>
 												</div>
 												<div data-id="784641d1" class="elementor-element elementor-element-784641d1 elementor-widget elementor-widget-faq-accordion" data-element_type="faq-accordion.default">
@@ -771,48 +646,48 @@ Perguntas frequentes
 																	<div class="faq-header" id="5bd12a2c8acca">
 																		<h5>
 																			<button class="" data-toggle="collapse" data-target="#5bd12a2c8ad01" aria-expanded="false" aria-controls="5bd12a2c8ad01">
-																				<i class="fa fa-angle-up"></i> Do I need to make a payment?	  
+																				<i class="fa fa-angle-up"></i> Vestibulum porttitor interdum?	  
 																			</button>
 																		</h5>
 																	</div>
 																	<div id="5bd12a2c8ad01" class="collapse show" aria-labelledby="5bd12a2c8acca" data-parent="#accordion">
-																		<p>No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is.</p>
+																		<p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin.</p>
 																	</div>
 																</div>
 																<div class="faq reveal">
 																	<div class="faq-header" id="5bd12a2c8ad39">
 																		<h5>
 																			<button class="collapsed" data-toggle="collapse" data-target="#5bd12a2c8ad6f" aria-expanded="false" aria-controls="5bd12a2c8ad6f">
-																				<i class="fa fa-angle-up"></i> Do I need to make a payment?	   
+																				<i class="fa fa-angle-up"></i> Vestibulum porttitor interdum?	   
 																			</button>
 																		</h5>
 																	</div>
 																	<div id="5bd12a2c8ad6f" class="collapse " aria-labelledby="5bd12a2c8ad39" data-parent="#accordion">
-																		<p>No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is.</p>
+																		<p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin.</p>
 																	</div>
 																</div>
 																<div class="faq reveal">
 																	<div class="faq-header" id="5bd12a2c8ada6">
 																		<h5>
 																			<button class="collapsed" data-toggle="collapse" data-target="#5bd12a2c8addb" aria-expanded="false" aria-controls="5bd12a2c8addb">
-																				<i class="fa fa-angle-up"></i> Where can I download all versions?	  
+																				<i class="fa fa-angle-up"></i> Vestibulum porttitor interdum?	  
 																	      </button>
 																		</h5>
 																	</div>
 																	<div id="5bd12a2c8addb" class="collapse " aria-labelledby="5bd12a2c8ada6" data-parent="#accordion">
-																		<p>No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is.</p>
+																		<p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin.</p>
 																	</div>
 																</div>
 																<div class="faq reveal">
 																	<div class="faq-header" id="5bd12a2c8ae12">
 																		<h5>
 																			<button class="collapsed" data-toggle="collapse" data-target="#5bd12a2c8ae47" aria-expanded="false" aria-controls="5bd12a2c8ae47">
-																				<i class="fa fa-angle-up"></i> Can I track my daily task here?	
+																				<i class="fa fa-angle-up"></i> Vestibulum porttitor interdum?	
 																			</button>
 																		</h5>
 																	</div>
 																	<div id="5bd12a2c8ae47" class="collapse " aria-labelledby="5bd12a2c8ae12" data-parent="#accordion">
-																		<p>No one cares about products. People care about ideas. Is a product an idea? Noup. Is a brand? A good one is.</p>
+																		<p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit sem. Aenean maximus pharetra sollicitudin.</p>
 																	</div>
 																</div>
 															</div>
@@ -822,8 +697,8 @@ Perguntas frequentes
 												<div data-id="78feea47" class="elementor-element elementor-element-78feea47 elementor-widget elementor-widget-heading" data-element_type="heading.default">
 													<div class="elementor-widget-container">
 														<p class="elementor-heading-title elementor-size-default">		
-															<span style="color: #2d3136;">Still have a question? Reach out to us:</span> 
-															<a style="color: #4777f4;" href="mailto:">info@vapp.com</a>
+															<span style="color: #2d3136;">Ainda tem uma pergunta? Entre em contato com a gente:</span> 
+															<a style="color: #4777f4;" href="mailto:">email@email.com.br</a>
 														</p>
 													</div>
 												</div>
@@ -865,7 +740,7 @@ Perguntas frequentes
 												<div data-id="1ef669df" class="elementor-element elementor-element-1ef669df elementor-widget elementor-widget-vApp-icon" data-element_type="vApp-icon.default">
 													<div class="elementor-widget-container">
 														<div class="vapp-icon">
-															<i class="nc-icon nc-send"></i>	
+															<img src="<?php echo IMG; ?>/pasta.png" alt="image">	
 												      </div>
 													</div>
 												</div>
@@ -878,8 +753,8 @@ Perguntas frequentes
 												<div data-id="3e3476ee" class="elementor-element elementor-element-3e3476ee elementor-widget elementor-widget-section-title" data-element_type="section-title.default">
 													<div class="elementor-widget-container">
 														<div class="section-title" >
-															<h2 class="newsletter-optin__title">Start 14 days free trial</h2>
-												         <p>Our users are impatient. They're probably distracted too. Keep it simple and beautiful, fun and functional.</p>
+															<h2 class="newsletter-optin__title">Experimente Grátis</h2>
+												         <p>Nunc et quam luctus mauris convallis vulputate ut vitae velit. Duis vitae commodo ex, eget suscipit s</p>
 										            </div>
 													</div>
 												</div>
@@ -897,9 +772,9 @@ Perguntas frequentes
 																	<div id="mc_embed_signup_scroll">
 																		<div class="mc-field-group">
 																			<div class="form-wrap clearfix">
-																				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email address">
+																				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email">
 																				<button type="submit" class="btn__submit">
-																					Get started</button>
+																					Enviar</button>
 																			</div>
 																		</div>
 																		<div id="mce-responses" class="clear">
@@ -919,9 +794,9 @@ Perguntas frequentes
 													<div class="elementor-widget-container">
 														<nav class="footer-widget">
 															<ul>
-																<li>Free 14-day trial</li>
-																<li>Easy setup</li>
-																<li>Cancel any time</li>
+																<li>Donec eget magna</li>
+																<li>Pellentesque</li>
+																<li>Phasellus</li>
 															</ul>
 														</nav>
 													</div>

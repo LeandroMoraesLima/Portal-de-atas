@@ -2,8 +2,8 @@
 Footer
 ============================-->
 
-<section data-id="2566f2f4" class="elementor-element elementor-element-2566f2f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
-	<div class="elementor-container elementor-column-gap-default">
+<section data-id="2566f2f4" class="elementor-element elementor-element-2566f2f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+	<div class="elementor-container elementor-column-gap-default" style="background-image: url('<?php echo IMG; ?>/logo-portal-de-atas1.png');">
 		<div class="elementor-row">
 			<div data-id="3f44a3d6" class="elementor-element elementor-element-3f44a3d6 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
 				<div class="elementor-column-wrap elementor-element-populated">
@@ -17,47 +17,63 @@ Footer
 						</div>
 						<div data-id="2cd48e8e" class="elementor-element elementor-element-2cd48e8e elementor-widget elementor-widget-heading" data-element_type="heading.default">
 							<div class="elementor-widget-container">
-								<p class="elementor-heading-title elementor-size-default">Sitting proudly atop M3565 is the two-storey penthouse. The master bedroom suite is phenomenally spacious and opens out to a breathtaking plunge pool.</p>		
+								<p class="elementor-heading-title elementor-size-default">O portal de atas é mais uma inovação tecnológica, cujo objetivo é trazer benefícios econômicos e melhores condições de condução dos processos trabalhistas contra as empresas, com informações mais completas e detalhadas.</p>		
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div data-id="71c7e586" class="elementor-element elementor-element-71c7e586 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
-				<div class="elementor-column-wrap elementor-element-populated">
-					<div class="elementor-widget-wrap">
-						<div data-id="45259252" class="elementor-element elementor-element-45259252 elementor-widget elementor-widget-list_link" data-element_type="list_link.default">
-							<div class="elementor-widget-container">
-								<nav class="footer-widget">
-									<ul>
-										<li><a href="#"  target="_blank"  rel="nofollow">Affiliate program </a></li>
-										<li><a href="#"  target="_blank"  rel="nofollow">
-										Terms & Conditions</a></li>
-										<li><a href="#"  target="_blank"  rel="nofollow">Privacy Policy</a></li>
-										<li><a href="#"  target="_blank"  rel="nofollow">Refund Policy</a></li>	 
-							      </ul>
-								</nav>
-							</div>
-						</div>
-						<div data-id="40d12097" class="elementor-element elementor-element-40d12097 elementor-widget elementor-widget-heading" data-element_type="heading.default">
-							<div class="elementor-widget-container">
-								<p class="elementor-heading-title elementor-size-default">
-									<span style="color: #818992;">© 2018 vApp, Design with 
-										<i style="color:#ea4a27" class="fa fa-heart"></i> 
-									</span>
-									<span style="color: #f2f4f6;" >Team Dhrubok</span>
-								</p>
+						<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+								<div data-id="45259252" class="elementor-element elementor-element-45259252 elementor-widget elementor-widget-list_link" data-element_type="list_link.default">
+									<div class="elementor-widget-container">
+										<nav class="footer-widget">
+											<ul>
+												<li class="logos" data-alt="Facebook">
+													<a href="#" class="facebook" rel="nofollow" title="Facebook" target="_blank">
+														<i class="fa fa-facebook-f"></i>
+													</a>
+												</li>
+												<li class="logos" data-alt="twitter">
+													<a href="#" class="twitter" rel="nofollow" title="twitter" target="_blank">
+														<i class="fa fa-twitter"></i>
+													</a>
+												</li>
+												<li class="logos" data-alt="instagram">
+													<a href="#" class="google" rel="nofollow" title="Google" target="_blank">
+														<i class="fa fa-instagram"></i>
+														</i>
+													</a>
+												</li>
+												<li class="logos" data-alt="Linkedin">
+													<a href="#" class="linkedin" rel="nofollow" title="Linkedin" target="_blank">
+														<i class="fa fa-linkedin"></i>
+													</a>
+												</li>          
+											</ul>
+										</nav>
+									</div>
+								</div>
+								<div data-id="40d12097" class="elementor-element elementor-element-40d12097 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+									<div class="elementor-widget-container">
+										<p class="elementor-heading-title elementor-size-default">
+											<span style="color: #fff;">2018 – Todos os direitos reservados 
+										</p>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>
+			</div>			
 		</div>
 	</div>
 </section>
+
 			
 <!--==========================
-Footer Black Section
+Footer Black Section							
 ============================-->
 
 <section id="black">
@@ -66,7 +82,7 @@ Footer Black Section
 			<div class="row">
 				<div class="titulo">
 					<span>Desenvolvido por</span> 
-					<a href="#">Camelo Digital</a>
+					<a href="#">Camelo Comunicação</a>
 				</div>
 			</div>
 		</div>
@@ -84,3 +100,5 @@ Footer Black Section
 
 </body>
 </html>
+
+<!-- <span style="color: #fff;">2018 – Todos os direitos reservados  -->

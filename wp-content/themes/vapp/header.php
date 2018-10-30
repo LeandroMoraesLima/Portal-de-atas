@@ -7,6 +7,7 @@
 	<?php wp_head(); ?>
 
 	<link rel="stylesheet" href="<?php echo CSS; ?>/app.css?v=2">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </head>
 <body>
@@ -29,8 +30,8 @@ Header
 										<div data-id="1db4a43" class="elementor-element elementor-element-1db4a43 elementor-widget elementor-widget-vapp-logo" data-element_type="vapp-logo.default">
 											<div class="elementor-widget-container">
 												<a href="vapp.html" class="navigation__brand">
-													<img src="vapp/wp-content/uploads/2018/08/brand-logo-white-2.png" alt="vApp" class="navigation-main__logo" />				
-													<img src="vapp/wp-content/uploads/2018/08/brand-logo-white-2.png" alt="vApp" class="sticky-nav__logo" />			
+													<img src="<?php echo IMG; ?>/logo-portal-de-atas1.png" alt="vApp" class="navigation-main__logo" />				
+													<img src="<?php echo IMG; ?>/logo-portal-de-atas1.png" alt="vApp" class="sticky-nav__logo" />			
 												</a>
 											</div>
 										</div>
@@ -72,7 +73,7 @@ Header
 									<div class="elementor-widget-wrap">
 										<div data-id="91b2df9" class="elementor-element elementor-element-91b2df9 elementor-widget elementor-widget-header-buttons" data-element_type="header-buttons.default">
 											<div class="elementor-widget-container">
-												<div class="vapp-btn-group header-buttons"><a href="" class="db-btn db-btn__type-sm "  target="_blank"  rel="nofollow">Try 14 Days free trial</a></div>
+												<div class="vapp-btn-group header-buttons"><a href="" class="db-btn db-btn__type-sm "  target="_blank"  rel="nofollow">Experimente Grátis</a></div>
 											</div>
 										</div>
 										<div data-id="9868aee" class="elementor-element elementor-element-9868aee elementor-widget elementor-widget-vapp-nav-menu" data-element_type="vapp-nav-menu.default">
@@ -103,4 +104,3 @@ Header
 						</div>
 					</div>
 				</section>
-			

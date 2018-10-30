@@ -205,15 +205,13 @@ body.elementor-editor-active .elementor.elementor-edit-mode .elementor-element.e
 }
 
 .advanced-section-style-yes:before, .advanced-section-style-yes:after {
-    content: "";
+    content: '';
     position: absolute;
     width: 100%;
-    -webkit-transform: rotate(-53deg);
-    -ms-transform: rotate(-53deg);
-    transform: rotate(-53deg);
-    background-color: #000;
-    opacity: 0.03;
-    height: 600px;
+    height: 136%;
+    background-color: rgba(64, 70, 121, 0.9);
+    left: 0px;
+    right: 0px;
 }
 
 .advanced-section-style-yes:before {
@@ -228,7 +226,7 @@ body.elementor-editor-active .elementor.elementor-edit-mode .elementor-element.e
     border-radius: 100%
 }
 .advanced-section-style-yes:after {
-    top: 250px;
+    top: 750px;
     right: 0;
     -webkit-transform-origin: top right;
     -ms-transform-origin: top right;
@@ -282,7 +280,7 @@ body.elementor-editor-active .elementor.elementor-edit-mode .elementor-element.e
     left: 0;
     top: 0;
     float: left;
-    border-radius: 10px 0 0 10px !important
+    border-radius: 0px 0 0 0px !important;
 }
 
 
@@ -317,6 +315,7 @@ body.elementor-editor-active .elementor.elementor-edit-mode .elementor-element.e
 .features-three .feature_icon i {
     color: #e2e6ea;
     font-size: 4.125rem;
+    color: #363c72 !important;
 
 }
 
@@ -596,7 +595,8 @@ section.hero-three{
     position: relative;
 }
 .navigation__landscape .navigation-menu{
-    display: -webkit-box
+    display: -webkit-box;
+    margin-left: 135px;
 }
 .navigation__landscape .navigation-menu__item.current-menu-item>a {
     color: #fff;
@@ -821,20 +821,16 @@ section.hero-three{
 .header-buttons .db-btn{
     padding: 0 .9375rem;
     color: #fff;
-    font-size: 1rem;
+    font-size: 20px;
     font-weight: 400;
-    min-width: 9.375rem;
+    min-width: 180px;
     height: 2.625rem;
     line-height: 2.625rem;
     box-shadow: 0 0 0 1px #e2e6ea
 }
 .header-buttons .db-btn:hover{
-    color: #2d3136
+    color: #fff;
 }
-.header-buttons .db-btn:before {
-    background: #fff;
-}
-
 .blog-breadcrumb {
     margin-bottom: 5rem;
     position: relative;
@@ -1547,9 +1543,9 @@ body .page-content h6{
 }
 
 p, dd, li, td, select {
-    font-size: 1.0625rem;
+    font-size: 17px;
     line-height: 1.53;
-    color: #818992;
+    color: #58585;
 }
 dt {
     background: #f7f7f7 !important;
@@ -2332,7 +2328,13 @@ input[type='submit']:hover {
     }
     .vapp-btn-group a:last-child{
         margin: 0;
+        color: #ffffff;
+        background: #ff6600;
     }
+    .vapp-btn-group a:hover{
+            background-color: #000;
+    }
+
 
     .blog-breadcrumb{
         padding: 7.5rem 0 5rem
